@@ -1,0 +1,545 @@
+{
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adsr.4wnetwork.com": {
+    "hostname": "adsr.4wnetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "advertiser.wbtrk.net": {
+    "hostname": "advertiser.wbtrk.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ampcid.google.com": {
+    "hostname": "ampcid.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ampcid.google.it": {
+    "hostname": "ampcid.google.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets-jpcust.jwpsrv.com": {
+    "hostname": "assets-jpcust.jwpsrv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-gl.imrworldwide.com": {
+    "hostname": "cdn-gl.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.clickiocdn.com": {
+    "hostname": "cdn.clickiocdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.iubenda.com": {
+    "hostname": "cdn.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jsdelivr.net": {
+    "hostname": "cdn.jsdelivr.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jwplayer.com": {
+    "hostname": "cdn.jwplayer.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.mookie1.com": {
+    "hostname": "cdn.mookie1.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clickio.mgr.consensu.org": {
+    "hostname": "clickio.mgr.consensu.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clickiocdn.com": {
+    "hostname": "clickiocdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cstatic.weborama.fr": {
+    "hostname": "cstatic.weborama.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3770qakewhkht.cloudfront.net": {
+    "hostname": "d3770qakewhkht.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3wo5wojvuv7l.cloudfront.net": {
+    "hostname": "d3wo5wojvuv7l.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "embed.dugout.com": {
+    "hostname": "embed.dugout.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "entitlements.jwplayer.com": {
+    "hostname": "entitlements.jwplayer.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ff.kis.v2.scr.kaspersky-labs.com": {
+    "hostname": "ff.kis.v2.scr.kaspersky-labs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.facebook.com",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hits-i.iubenda.com": {
+    "hostname": "hits-i.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ilfattoquotidianoit.solution.weborama.fr": {
+    "hostname": "ilfattoquotidianoit.solution.weborama.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ilfattoquotidianoitalia01.wt-eu02.net": {
+    "hostname": "ilfattoquotidianoitalia01.wt-eu02.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.outbrainimg.com": {
+    "hostname": "log.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mcdp-nydc1.outbrain.com": {
+    "hostname": "mcdp-nydc1.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "odb.outbrain.com": {
+    "hostname": "odb.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "optimized-by.4wnetwork.com": {
+    "hostname": "optimized-by.4wnetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prd.jwpltx.com": {
+    "hostname": "prd.jwpltx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "qzzq7ppff3mapjykgbvnlhcijko681618859234.nuid.imrworldwide.com": {
+    "hostname": "qzzq7ppff3mapjykgbvnlhcijko681618859234.nuid.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "responder.wt-safetag.com": {
+    "hostname": "responder.wt-safetag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-it.imrworldwide.com": {
+    "hostname": "secure-it.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "seon1upvuqvaxawayzvoskshf1za21618859364.nuid.imrworldwide.com": {
+    "hostname": "seon1upvuqvaxawayzvoskshf1za21618859364.nuid.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.gstatic.com": {
+    "hostname": "ssl.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.p.jwpcdn.com": {
+    "hostname": "ssl.p.jwpcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "st.ilfattoquotidiano.it": {
+    "hostname": "st.ilfattoquotidiano.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tcheck.outbrainimg.com": {
+    "hostname": "tcheck.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget-pixels.outbrain.com": {
+    "hostname": "widget-pixels.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.spreaker.com": {
+    "hostname": "widget.spreaker.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.outbrain.com": {
+    "hostname": "widgets.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.ansa.it": {
+    "hostname": "www.ansa.it",
+    "favicon": "data:image/x-icon;base64,AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAgBAAABMLAAATCwAAAAAAAAAAAAAlcwrmJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK5iZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQM8iZ0DP8mdAz/JnQM/yZ1DP8mdQz/JnQM/yZ0DP8mdAz/JnQM/yZ0DP8mdQz/JnQM/yZ0DP8mdAz/JnQM/yZ0DP8mdAz/JnUM/yZ0DP8mdAz/JnQM/yZ0DP8mdAz/JnQM/yZ0DP8mdQz/JnUM/yZ0DP8mdAz/JnQM/yZ0DPImdQ3yJnUN/yZ1Df8mdA3/JnQN/yZzDP8lcgz/JXIM/yVyDP8lcgz/JXIM/yVzDP8mcw3/JnQN/yZ0Df8mdA3/JnMN/yZzDf8lcwz/JXIM/yVyDP8lcgz/JXIM/yVyDP8lcgz/JXIM/yVzDP8mcwz/JnQN/yZ0Df8mdQ3/JnUN8id2DvIodw//KXYQ/wheAP8AVAD/AFEA/wBQAP8AUAD/AFAA/wBQAP8AUAD/AFEA/wBTAP8cagP/LHgQ/yJwCv8BWAD/AFMA/wBRAP8AUAD/AFAA/wBQAP8AUAD/AFAA/wBQAP8AUAD/AFAA/wBTAP8WZQD/LHcQ/yd1Dv8ndg7yKHcP8iZ1Df8hbwn/aZtZ/3ukbv96om7/eqFt/3qhbf96oW3/eqFt/3qhbf96om7/eqRu/zp7Jf8XZAj/LnYX/3qmbP96pG7/eqJu/3qhbf96oW3/eqFt/3qhbf96oW3/eqFt/3qhbf96om7/eqNu/0eCNP8XZwj/KHYP/yh3D/IqeA/yJHMJ/xZmAP/q8ef/////////////////////////////////////////////////Y5RS/wBMAP8+fyn/////////////////////////////////////////////////////////////////iq99/wBSAP8pdg//KngP8it5EPIldAr/F2cA/+jv5v////////////////////////////////////////////////9klVP/AE4A/z+AKf////////////////////////////////////////////////////////////////+Kr33/AFQA/yp3EP8reRDyLHoR8il4D/8jcgn/daRk/4atff/W4tD//////////////////////8HSu/+MroH/jLKA/0GDLP8WZwf/NHsb/4qyfP+Ir33/u8+0//////////////////////////////////////+pwqD/hax4/1CLPP8Zagf/LHkR/yx6EfIsexLyLXsT/y58Ff8RaAD/AFQA/yFpDP/o7+b/////////////////O3Ip/wBAAP8IXQD/I3MI/zJ+FP8odw//C2IA/wBHAP8+eiv/////////////////////////////////nrqV/wBGAP8EWQD/Hm8D/zF+FP8sexL/LHsS8i18FPItfBT/LXwU/y18E/8ufRP/AFcA/4uxf/////////////////98onD/AVAA/ypzEv8reBP/LHgT/yx3E/8seBP/BFgA/4GpdP////////////////////////////v7+v81cx7/EGIA/y16FP8sfBT/LXwU/y18FP8tfBTyL30U8i99FP8vfRT/L34U/y9+Ff8XbAD/RoUv/////////////////8XVwP8AQwD/AFAA/whZAP8JWQD/CVkA/wFTAP8ASAD/xtfB////////////////////////////v9K5/w1bAP8rdw//L30U/y9+FP8vfRT/L30U/y99FPIwfhXyMH4V/zB+Ff8wfhX/MH8V/yx7EP8XaAD/ytvF/////////////Pz8/6W+mv+XtY3/n7uV/5+8lf+fvJX/mLaN/6S+mP/9/fz///////////////////////////90n2X/CFsA/zB8Fv8wfhX/MH4V/zB+Ff8wfhX/MH4V8jJ/F/Iyfxf/Mn8X/zJ/F/8yfxf/MoAY/wtiAP+CrHT/////////////////////////////////////////////////////////////////////////////////9/n3/zV0Hf8fbQT/Mn4X/zJ/F/8yfxf/Mn8X/zJ/F/8yfxfyMoEY8jKBGP8ygRj/MoEY/zKBGP8ygRj/HnEE/0CCKP/8/fz///////////////////////////////////////////////////////////////////////////+2y6//DFwA/zB7Ff8ygBj/MoEY/zKBGP8ygRj/MoEY/zKBGPIzghryM4Ia/zOCGv8zghr/M4Ia/zOCGv8wfxb/FGcA/8TXvv////////////////+Jqn3/aJdc/3qmbP9omVz/jbCC/////////////////////////////////26cYP8NYAD/M4Ab/zOCGv8zghr/M4Ia/zOCGv8zghr/M4Ia8jWDGvI1gxr/NYMa/zWDGv81gxr/NYMa/zaEG/8QZwD/e6hs/////////////////2qVW/8AQQD/FGYA/wBIAP9zn2T////////////////////////////v8+7/MHQZ/yVzCf80ghr/NYMa/zWDGv81gxr/NYMa/zWDGv81gxryNoQb8jaEG/82hBv/NoQb/zaEG/82hBv/NoQb/yV3Cf89gSX/9/j2////////////0N7L/xtkA/8mcwr/H2sH/9rm1v///////////////////////////63FpP8QXwD/NIAZ/zaEG/82hBv/NoQb/zaEG/82hBv/NoQb/zaEG/I3hR3yN4Ud/zeFHf83hR3/N4Ud/zeFHf83hR3/NoMb/xdqAP+40LD/////////////////T4U7/wRTAP9WjUL/////////////////////////////////ZZZU/xRlAP83gx3/N4Ud/zeFHf83hR3/N4Ud/zeFHf83hR3/N4Ud8jiGHvI4hh7/OIYe/ziGHv84hh7/OIYe/ziGHv85hx//FWwA/3OkYv////////////////+RsYb/ADwA/5q6kP///////////////////////////+rw6f8rcRT/K3kQ/ziFHv84hh7/OIYe/ziGHv84hh7/OIYe/ziGHv84hh7yOIgf8jiIH/84iB//OIgf/ziIH/84iB//OIgf/zmIH/8rfRD/Nn8f//L28f///////////87cyv8SVwP/2eTW////////////////////////////o8Ca/w9hAP83hB//OYcf/ziIH/84iB//OIgf/ziIH/84iB//OIgf/ziIH/I6iSDyOokg/zqJIP86iSD/Ookg/zqJIP86iSD/Ookg/zqIIP8WbQD/s8yp////////////8vbx/4ysf//4+vf///////////////////////////9glE//GmwA/zqHIP86iSD/Ookg/zqJIP86iSD/Ookg/zqJIP86iSD/Ookg8juKIPI7iiD/O4og/zuKIP87iiD/O4og/zuKIP87iiD/PIoi/xtyAP9toVv/////////////////////////////////////////////////4ene/ypyEv8xfxb/O4kh/zuKIP87iiD/O4og/zuKIP87iiD/O4og/zuKIP87iiDyPYoi8j2KIv89iiL/PYoi/z2KIv89iiL/PYoi/z2KIv89iiL/MYIV/zV/Hf/q8ej///////////////////////////////////////////+cu5H/E2UA/zyHIf89iiL/PYoi/z2KIv89iiL/PYoi/z2KIv89iiL/PYoi/z2KIvI9jCPyPYwj/z2MI/89jCP/PYwj/z2MI/89jCP/PYwj/z2MI/89iyP/GG8A/6fGnf///////////////////////////////////////////1ePRf8fcQX/PIoj/z2MI/89jCP/PYwj/z2MI/89jCP/PYwj/z2MI/89jCP/PYwj8j6NJPI+jST/Po0k/z6NJP8+jST/Po0k/z6NJP8+jST/Po0k/z6NJf8geAX/ZZ5S///////////////////////////////////////c5tj/JnIN/zaEHP8+jCT/Po0k/z6NJP8+jST/Po0k/z6NJP8+jST/Po0k/z6NJP8+jSTyP44l8j+OJf8/jiX/P44l/z+OJf8/jiX/P44l/z+OJf8/jiX/P44l/zeIHf8vfxX/5u/k/////////////////////////////////5K4h/8YbgD/P4wm/z+OJf8/jiX/P44l/z+OJf8/jiX/P44l/z+OJf8/jiX/P44l/z+OJfJAjybyQI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QY8n/zSGGv9Tlj7/Z6BU/2aeU/9mnlP/Zp5T/2aeU/9mn1T/Qooq/ziHHv8/jib/QI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QI8m8kGPJvJBjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9Bjyf/Q5Ap/y+CEv8nfAr/JnoJ/yZ6Cf8megn/JnoJ/yZ7Cv84hxz/RJAq/0GOJv9Bjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9BjybyQpAn8kKQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9Cjyj/Qo8o/0KQKP9CkCj/QpAn/0KQJ/9CkCf/QpAo/0KPKP9CkCj/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/JDkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0OSKeZDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ff.kis.v2.scr.kaspersky-labs.com",
+      "cdn.iubenda.com",
+      "www.iubenda.com",
+      "hits-i.iubenda.com",
+      "cdn-gl.imrworldwide.com",
+      "securepubads.g.doubleclick.net",
+      "sb.scorecardresearch.com",
+      "seon1upvuqvaxawayzvoskshf1za21618859364.nuid.imrworldwide.com",
+      "secure-it.imrworldwide.com",
+      "adsr.4wnetwork.com",
+      "embed.dugout.com",
+      "widget.spreaker.com",
+      "cdn.jwplayer.com",
+      "ssl.p.jwpcdn.com",
+      "www.googletagmanager.com",
+      "entitlements.jwplayer.com",
+      "imasdk.googleapis.com",
+      "d3wo5wojvuv7l.cloudfront.net",
+      "d3770qakewhkht.cloudfront.net",
+      "www.google-analytics.com",
+      "assets-jpcust.jwpsrv.com",
+      "prd.jwpltx.com",
+      "optimized-by.4wnetwork.com",
+      "stats.g.doubleclick.net"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "data:image/x-icon;base64,AAABAAIAEBAAAAEAIABoBAAAJgAAACAgAAABACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOFlBiviZgKP4WYB1f//////////4WUA1eJmAI/hawYrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/4ArBuNpA5TkawP942kC/+NpAv///////////+NpAv/jaQL/5GoD/eNpA5T/gCsGAAAAAAAAAAAAAAAA/4ArBuVvBL3lbgT/5W4E/+VuBP/lbgT////////////lbgT/5W4E/+VuBP/lbgT/5W8Evf+AKwYAAAAAAAAAAOlzBZTncwX/53MF/+dzBf/ncwX/53MF////////////53MF/+dzBf/ncwb/53MF/+dzBv/pcweUAAAAAO19DCvpeAf96HcH/+l4B//odwf/6XgH/+l4B////////////+h3B//odwf/6XgH/+h3B//peAf/6nkH/e19DCvrfQmP630J/+t9Cf/rfAn/630J/+t8Cf/rfAn////////////rfQn/630J/+p8CP/rfQn/6nwI/+p8CP/rfQuP7YEL1e2BCv/tgQr/7IEK/+2BCv/////////////////////////////////uiRj/7IEK/+2CCv/tggr/7YIM1e6GDfPvhgz/74YM/++HDP/vhgz/////////////////////////////////8Zw4/++GDP/uhgz/7oYM/+6GDPPwiw7z8IsN//CLDf/wiw3/8IsN//CLDf/wiw3////////////wig3/8IoN//CLDf/wig3/8IsN//CLDf/xjA/z85EQ1fOQD//zkA//85AP//OQD//zkA//85AP////////////8o8P//KPD//ykA//8o8P//KQD//ykA//85EQ1fSUEI/1lRH/9ZUR//SUEP/1lRH/9JQQ//SUEP/+9uz///////jDev/0mRz/9ZUR//SVEf/1lRH/9ZUR//SUEI/5mhgr95kS/faZEv/2mRL/9pkS//aZEv/2mRL//Nqo//////////////////rLhv/3mhL/9pkS//eZEv35mhgrAAAAAPifFZT4nhT/+Z8U//ieFP/5nxT/+Z8U//ikI//83a3//vjw//78+f/7yX3/+J4T//ieFP/4nxWUAAAAAAAAAAD/qisG+6MWvfqjFf/6oxX/+qMV//qjFf/6oxX/+qMV//qjFf/6oxX/+qIV//qjFf/7oxa9/6orBgAAAAAAAAAAAAAAAP+qKwb9qRiU/agW/fyoF//8qBf//agX//yoF//9qBf//agX//2oF/39qRiU/6orBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+yHiv/rRmP/6wZ1f+tGPP/rBjz/64Z1f+vGY//sh4rAAAAAAAAAAAAAAAAAAAAAPAPAADAAwAAgAEAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAACAAQAAwAMAAPAPAAAoAAAAIAAAAEAAAAABACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+AAAbiZQRH4GMAlf//////////////////////////4GQAv+BjAJXiZQBH/4AABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOpqCxjiZgKW4WYB8eJmAf/hZQH////////////////////////////hZgH/4mYB/+FmAf/iZwHx4mYClupqCxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP9tJAfkagSC42kC9ONoAv/jaAL/4mgC/+NoAv///////////////////////////+JoAf/iaAL/4mgB/+JoAv/iaAL/42kC9ORqBIL/bSQHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADqagsY5GoEx+NqA//jagP/42oD/+NqA//kawP/42oD////////////////////////////42oD/+RrA//jagP/5GsD/+RrA//kawP/5GsD/+RsBMfqdQsYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6HEGLeVuBOPlbQT/5GwD/+VtBP/kbAP/5GwD/+VtBP/kbAP////////////////////////////kbAP/5G0D/+RsA//kbQP/5G0D/+RtA//kbQP/5G0D/+RuA+PocQYtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOp1CxjmcAbj5W8E/+VvBP/lbwT/5W8E/+VvBP/lbwT/5W8E/+VvBP///////////////////////////+VvBP/mcAX/5W8E/+ZwBf/mcAX/5W8E/+ZwBf/lbwT/5W8E/+ZwBuPqdQsYAAAAAAAAAAAAAAAAAAAAAAAAAAD/kiQH53IFx+ZyBf/mcQX/5nEF/+ZxBf/mcQX/5nEF/+ZxBf/ncgX/5nEF////////////////////////////53IG/+ZxBf/ncgb/5nEF/+ZxBf/mcgX/5nEF/+ZyBf/mcgX/5nEF/+dyBcf/kiQHAAAAAAAAAAAAAAAAAAAAAOd2CILodAb/53QG/+h0Bv/odAb/6HQG/+h0Bv/odAb/6HQG/+d0Bv/odAb////////////////////////////ndAX/53QG/+d0Bf/ndAb/53QG/+h1Bv/ndAb/6HUG/+h1Bv/ndAX/6HUG/+d2BoIAAAAAAAAAAAAAAADqgAsY6HYG9Oh2B//odgb/6HYH/+h2B//odgb/6HYH/+h2Bv/odgb/6HYH/+h2Bv///////////////////////////+l3B//odgb/6XcH/+h2Bv/odgb/6HYH/+h2Bv/odgf/6HYH/+h2Bv/odgf/6HYG9OqACxgAAAAAAAAAAOt6CZbpeQj/6nkI/+l5CP/qeQj/6nkI/+l5B//qeQj/6XkH/+l5B//peQf/6XkH////////////////////////////6XkI/+l5B//peQj/6XkH/+l5B//peQj/6XkH/+l5CP/peQj/6XkH/+l5CP/peQf/63oJlgAAAAD/gCsG7H0K8et8Cf/qewj/63wJ/+p7CP/qewj/6nsI/+p7CP/qewj/6nsI/+t8Cf/qewj////////////////////////////qewj/6nwJ/+p7CP/qfAn/6nwJ/+p7CP/qfAn/6nsI/+p7CP/rfAn/6nsI/+t8Cf/sfQrx/4ArBu2BC0frfQn/630J/+t+Cf/rfQn/634J/+t+Cf/rfgn/634J///////////////////////////////////////////////////////////////////////zs27/634J/+x+Cf/rfgn/634J/+t+Cf/rfgn/634J/+t+Cf/tgQtH7IAKleyACv/sgAr/7IAK/+yACv/sgAr/7IAK/+yACv/sgAr///////////////////////////////////////////////////////////////////////XCiv/sgAr/7IAK/+yACv/sgAr/7IAJ/+yACv/sgAn/7IAJ/+yACpXugwu/7YML/+2DC//tggr/7YML/+2CCv/tggr/7YIK/+2CCv//////////////////////////////////////////////////////////////////////+NKn/+2DC//tggr/7YML/+2DC//tgwv/7YML/+2DC//tgwv/7oMLv++GDNnuhQv/7oUL/+6FC//uhQv/7oUL/+6FC//vhQz/7oUL///////////////////////////////////////////////////////////////////////64cT/7oUL/+6FC//uhQv/7oUL/+6EC//uhQv/7oQL/+6EC//vhgzZ74gO8++IDP/viAz/74cM/++IDP/vhwz/74cM/++HDP/vhwz///////////////////////////////////////////////////////////////////////3w4f/viA3/74cM/++IDf/viA3/74cM/++IDf/vhwz/74cM/++HDfPwiw7z8IoN//CKDf/wig3/8IoN//CKDf/wig3/8IkN//CKDf/wiQ3/8IkN//CKDf/wiQ3////////////////////////////wiQ3/8IoN//CJDf/wig3/8IoN//CJDf/wig3/8IkN//CJDf/wiQ3/8IkN//CJDf/wiQ3/8IsO8/KNDtnxjA7/8YwO//GMDf/xjA7/8YwN//GMDf/xjA3/8YwN//GMDf/xjA3/8YwO//GMDf////////////////////////////GMDv/xjA7/8YwO//GMDv/xjA7/8YwO//GMDv/xjA7/8YwO//GMDv/xjA7/8YwO//GMDv/yjQ7Z8o8Pv/KPD//yjw//8o8P//KPD//yjw//8o8P//KPD//yjw//8o8P//KPD//yjg7/8o8P////////////////////////////8Y4O//KODv/xjg7/8o4O//KODv/yjg7/8o4O//KODv/yjg7/8o8P//KODv/yjw//8o8P//OQEL/zkQ+V85EP//ORD//zkQ//85EP//ORD//zkQ//85EP//ORD//zkQ//85EP//OREP/zkQ///vr0///////////////////////0myb/85EQ//ORD//zkRD/85EQ//ORD//zkRD/85EP//ORD//zkQ//85EP//ORD//zkQ//85EPlfSXEkf0kxD/9JMQ//SUEP/0kxD/9JQQ//SUEP/zkxD/9JQQ//OTEP/zkxD/9JQQ//OTEP/86tD///////////////////////rVov/1nSb/85MQ//STEP/0kxD/9JMQ//STEP/0kxD/9JMQ//SUEP/0kxD/9JQQ//SUEP/0kxJH/6orBvWWEvH1lhH/9ZYR//WWEf/1lhH/9ZYR//WWEf/1lhH/9ZYR//WWEf/1lhH/9ZYR//vZq//////////////////////////////////////////////////1lhH/9ZYR//WWEf/1lhH/9ZYR//WWEf/1lhH/9ZYS8f+qKwYAAAAA95kTlvaYEv/2mBH/9pgS//aYEf/2mBH/9ZgR//aYEf/1mBH/9ZgR//aYEv/1mBH/+LFN//////////////////////////////////////////////////aYEv/1mBH/9pgS//aYEv/1mBH/9pgS//WYEf/3mRGWAAAAAAAAAAD/nxUY+JwU9PebE//3mxP/95sT//ebE//3mxP/95sT//ebE//3mxP/95oS//ebE//3mhL//OK7////////////////////////////////////////////95sT//ebE//3mxP/95sT//aaEv/3mxP/95sT9P+fFRgAAAAAAAAAAAAAAAD5nxSC+J0T//idE//4nRP/+J0T//ecE//4nRP/95wT//ecE//4nRP/95wT//idE//4pSf//efF///////////////////////////////////////4nRP/950T//idE//4nRP/+J0T//idE//5nxSCAAAAAAAAAAAAAAAAAAAAAP+2JAf6oBXH+aAU//mgFP/5oBT/+J8U//mgFP/4nxT/+J8U//mfFP/4nxT/+Z8U//mfFP/5oRf/+86H//7w2v/+/Pj//v36//758f/+8+P//evQ//mgFP/5nxT/+aAU//mgFP/4nxT/+qAVx/+2JAcAAAAAAAAAAAAAAAAAAAAAAAAAAP+qFRj7oxXj+aEU//mhFP/6ohX/+aEU//qiFf/6ohX/+qIV//qiFf/6ohX/+qIV//mhFP/6ohX/+aEU//mhFP/6ohX/+aEU//qiFf/6ohX/+aEU//qiFf/5oRT/+aEU//ujFeP/qhUYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+mFi78pBXj+6QV//ukFv/7pBX/+6QW//ukFv/6pBX/+6QW//qkFf/6pBX/+6QW//qkFf/7pBb/+6QW//ulFv/7pBb/+6UW//ulFv/7pBX/+6UW//ukFf/8pBXj/6QXLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+qIBj8qBfH/KcW//ynF//8pxb//KcW//ynFv/8pxb//KcW//ynFv/7phb//KcW//umFv/7phb/+6YW//umFv/7phb/+6YW//ynFv/7phb//KgXx/+qIBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+2JAf9qxiC/akY9PypF//8qRf//KgX//ypF//8qBf//KgX//2pF//8qBf//akX//2pF//9qRf//akX//2pF//9qRf//qkY9P2rGIL/tiQHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/tSAY/60alv+sGPH+rBj//qwY//6sGP/+rBj//asY//6sGP/9qxj//asY//2rF//9qxj//qsX8f2sGJb/tSAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/9UrBv+wGUf/rxqV/68Zv/+vGtn/rhnz/64Z8/+vGtn/rxm//68alf+wGUf/1SsGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AA///AAD//AAAP/gAAB/wAAAP4AAAB8AAAAPAAAADgAAAAYAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAcAAAAPAAAAD4AAAB/AAAA/4AAAf/AAAP/8AAP//wAP/",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ff.kis.v2.scr.kaspersky-labs.com"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ilfattoquotidiano.it",
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.ilfattoquotidiano.it": {
+    "hostname": "www.ilfattoquotidiano.it",
+    "favicon": "data:image/png;base64,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",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ff.kis.v2.scr.kaspersky-labs.com",
+      "apis.google.com",
+      "fonts.googleapis.com",
+      "clickio.mgr.consensu.org",
+      "st.ilfattoquotidiano.it",
+      "securepubads.g.doubleclick.net",
+      "fonts.gstatic.com",
+      "cdn-gl.imrworldwide.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "cdn.clickiocdn.com",
+      "clickiocdn.com",
+      "ampcid.google.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "secure-it.imrworldwide.com",
+      "cdn.jsdelivr.net",
+      "ampcid.google.it",
+      "stats.g.doubleclick.net",
+      "qzzq7ppff3mapjykgbvnlhcijko681618859234.nuid.imrworldwide.com",
+      "cdn.mookie1.com",
+      "widgets.outbrain.com",
+      "cstatic.weborama.fr",
+      "widget-pixels.outbrain.com",
+      "tcheck.outbrainimg.com",
+      "ilfattoquotidianoit.solution.weborama.fr",
+      "responder.wt-safetag.com",
+      "odb.outbrain.com",
+      "log.outbrainimg.com",
+      "ilfattoquotidianoitalia01.wt-eu02.net",
+      "connect.facebook.net",
+      "mcdp-nydc1.outbrain.com",
+      "www.facebook.com",
+      "advertiser.wbtrk.net"
+    ]
+  },
+  "www.iubenda.com": {
+    "hostname": "www.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
